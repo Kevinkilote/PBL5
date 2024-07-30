@@ -1,0 +1,17 @@
+precision    recall  f1-score   support
+
+                   Department of Health and Social Care       0.84      0.88      0.86       500
+                               Department for Education       0.91      0.93      0.92       500
+                               Department for Transport       0.90      0.93      0.91       500
+     Department for Environment, Food and Rural Affairs       0.87      0.91      0.89       500
+                                            Home Office       0.83      0.80      0.81       500
+                                         Cabinet Office       0.85      0.83      0.84       500
+Department for Business, Energy and Industrial Strategy       0.75      0.74      0.74       500
+                                            HM Treasury       0.82      0.80      0.81       500
+                                    Ministry of Justice       0.83      0.84      0.84       500
+                       Department for Work and Pensions       0.83      0.75      0.79       500
+  Department for Levelling Up, Housing and Communities        0.81      0.84      0.83       500
+
+                                               accuracy                           0.84      5500
+                                              macro avg       0.84      0.84      0.84      5500
+                                           weighted avg       0.84      0.84      0.84      5500

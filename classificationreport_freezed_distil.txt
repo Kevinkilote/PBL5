@@ -1,0 +1,20 @@
+Time taken: 17 minutes on 4060 GPU
+
+precision    recall  f1-score   support
+
+                   Department of Health and Social Care       0.72      0.78      0.75       500
+                               Department for Education       0.84      0.88      0.86       500
+                               Department for Transport       0.83      0.87      0.85       500
+     Department for Environment, Food and Rural Affairs       0.76      0.84      0.80       500
+                                            Home Office       0.71      0.62      0.66       500
+                                         Cabinet Office       0.75      0.66      0.70       500
+Department for Business, Energy and Industrial Strategy       0.60      0.55      0.58       500
+                                            HM Treasury       0.72      0.66      0.69       500
+                                    Ministry of Justice       0.72      0.79      0.75       500
+                       Department for Work and Pensions       0.70      0.67      0.69       500
+  Department for Levelling Up, Housing and Communities        0.70      0.74      0.72       500
+
+                                               accuracy                           0.73      5500
+                                              macro avg       0.73      0.73      0.73      5500
+                                           weighted avg       0.73      0.73      0.73      5500
+
